@@ -173,6 +173,10 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+<<<<<<< HEAD
 # Python cache
 __pycache__/
 *.py[cod]
+=======
+
+>>>>>>> 022836d9ea7b22d2f6453ca0587b253d7e0371cb
